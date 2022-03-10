@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaRayan
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning React Library as a Front-End developer
+- 🌱 I’m currently learning Laravel Frameword as a Back-End developer
 
 
 <!---
